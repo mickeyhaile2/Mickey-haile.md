@@ -7,7 +7,7 @@ To complete this homework you should
 3. Create a new file called `FIRSTNAME_LASTNAME.md`
    - For example, if your name is Joe Smith then call your file `JOE_SMITH.md`
 4. In this file, write an introduction yourself. You should include:
-   1. Your name
+   1. Your name hi
    2. Your favourite sport and why you like it
    3. Your favourite food and why it's your favourite
    4. A link to a video of your favourite music
